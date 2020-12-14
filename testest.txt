@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hai saya anakmasri. minta tunjuk ajar
 saya budak baru belajar
+=======
+oya? oya oya? oya oya oya?
+>>>>>>> 041387382bcfe6738799773e835c58bb53774925
